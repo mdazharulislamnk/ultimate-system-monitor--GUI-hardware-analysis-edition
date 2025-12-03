@@ -16,7 +16,7 @@ Main GUI script
 ## 📸 Dashboard Preview
 (Insert a high-resolution screenshot of the final GUI here showing CPU Temp, Motherboard, and a 4.0 TB drive)
 
-![Dashboard Preview](./assets/preview.png)
+![Dashboard Preview](./assets/previews.png)
 
 Preview Options
 - Manual screenshot (recommended)
